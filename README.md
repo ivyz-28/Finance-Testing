@@ -1,15 +1,15 @@
 This repository is my own personal project tinkering around with yfinance and various financial mathematics concepts. 
 
-Version 1 Main Features:
-Market Class
+# Version 1 Main Features:
+## Market Class
 - Tracks the US Market using the S&P500 as a proxy
 - Returns key information such as risk free rate of return and expected market return
 
-Stock Class
+## Stock Class
 - Tracks an individual stock
 - Returns information such as sharpe ratio, volatility, expected return, beta value
 
-Portfolio Class
+## Portfolio Class
 - Tracks multiple stocks in a user-generated portfolio
 - Returns portfolio-wide information such as sharpe ratio, voltaility, expected return, beta value
 - Includes optimiser functions that suggest weights depending on which stocks are included
