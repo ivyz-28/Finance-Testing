@@ -21,7 +21,7 @@ This repository is my own personal project tinkering around with yfinance and va
     - Kelly Criterion
     - Monte Carlo (Max return, Min Variance)
 
-Version 2 is currently in development, with upcoming changes to:
+## Version 2 is currently in development, with upcoming changes to:
 - yfinance data calling will be done once at the start of the program running to increase efficiency
 - Stock Class will gain an additional subfunction indicating if a stock if over or underpriced, and high or low quality based on factors such as P/E etc.
 - Optimisers may be further improved
