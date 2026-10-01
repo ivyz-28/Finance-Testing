@@ -1,5 +1,10 @@
 This repository is my own personal project tinkering around with yfinance and various financial mathematics concepts. 
 
+# Required Dependencies
+This projects aims to be built on as few dependencies as possible to allow for fast setup and use. Install required dependencies 
+```
+pip install yfinance pandas numpy scipy
+```
 # Version 1 Main Features:
 ## Market Class
 - Tracks the US Market using the S&P500 as a proxy
